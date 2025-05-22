@@ -3,7 +3,8 @@
 - 👀 I’m interested in Development , Data Structures and Algorithms And CP
 - 🌱 I’m currently learning  Web Development. 
 - 💞️ I’m looking to collaborate on Development Projects.
-- 📫 How to reach me @notoriousshuklaji on Instagram 
+- 📫 How to reach me - @notoriousshuklaji on Instagram
+- or @shikhar1928@gmail.com
 
 <!---
 shuklashikhar007/shuklashikhar007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
