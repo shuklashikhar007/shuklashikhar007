@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shikhar Shukla a Sophomore at IIT - (BHU) - Varanasi
 - Set to graduate in 2028 
-- 👀 I’m interested in Development , Data Structures and Algorithms And CP
+- 👀 I’m interested in Development & Data Structures and Algorithms.
 - 🌱 I’m currently learning  Web Development. 
 - 💞️ I’m looking to collaborate on Development Projects.
 - 📫 How to reach me - @notoriousshuklaji on Instagram
